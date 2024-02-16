@@ -55,5 +55,5 @@ date - день внесения данных в базу
 charcode - значение из списка выше
 
 **Формат строки для crontab**  
-01 00 * * * python3 путь до файла/crontab_task.py"
+01 00 * * * python2 путь до файла/crontab_task.py"
 
